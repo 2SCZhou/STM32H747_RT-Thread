@@ -1,0 +1,2 @@
+# STM32H747_RT-Thread
+RT-Thread在STM32H747I-DISCO开发板上的移植
